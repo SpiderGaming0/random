@@ -2,6 +2,7 @@ var randoms = {};
 
 randoms.number = function (mod, callback) {
     let output = Math.random()
+    console.log(output)
     callback(output)
 }
 
