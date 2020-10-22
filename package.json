@@ -1,7 +1,7 @@
 {
   "name": "@spidergaming/random",
-  "version": "0.0.4",
-  "description": "does random things",
+  "version": "0.0.5",
+  "description": "Generates random things",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"

@@ -1,16 +1,25 @@
 # random
-Does random things
-
-## Examples:
-Generate a random number
+Does random things  
+Require
 ```js
 const random = require('@spidergaming/random');
-random.number(null, (data) => console.log(data)); // random number between 1 and 100
-random.number(1000, (data) => console.log(data)); // random number between 1 and 1000
+```
+
+Warning: I may no longer maintain this project. You are welcome to send pull requests and start an issue on github
+
+## Examples:
+### Generate a random number
+`random.number([maxNumber])`
+```js
+let number = random.number();
+console.log(number); // random number between 1 and 100
+
+let number = random.number(1000);
+console.log(number) // random number between 1 and 1000
 ```
 
 Generate random string
 ```js
-const random = require('./index');
-random.text(null, (d) => { console.log(d) }); // random string
+let text = random.text();
+console.log(text); // random string
 ```

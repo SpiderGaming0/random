@@ -1,4 +1,7 @@
 const random = require('./index');
-random.number(null, (data) => console.log(data));
-random.number(1000, (data) => console.log(data));
-random.text(2, (d) => { console.log(d) })
+
+console.log('num: ', random.number());
+console.log('num 2: ', random.number(1000));
+
+console.log('text: ', random.text());
+console.log('text: ', random.text(100, { numbers: false }));
