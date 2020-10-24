@@ -1,9 +1,10 @@
-> *random* | Generates random things
+> *random* | Generates random things  
 > Status: Working Progress
 
 # random
 
 [Documentation](https://) (none yet)
+
 Require
 ```js
 const random = require('@spidergaming/random');
