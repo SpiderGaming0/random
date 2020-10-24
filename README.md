@@ -1,6 +1,7 @@
 > *random* | Generates random things  
 > Status: Working Progress
 
+[reposize](https://img.shields.io/github/repo-size/spidergamin/random?style=flat-square)
 # random
 
 [Documentation](https://) (none yet)
