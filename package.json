@@ -1,10 +1,10 @@
 {
   "name": "@spidergaming/random",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Generates random things",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node tests/test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/spidergamin/random/issues"
   },
-  "homepage": "https://github.com/spidergamin/random#readme"
+  "homepage": "https://github.com/spidergamin/random#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.6"
+  }
 }

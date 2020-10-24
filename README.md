@@ -1,25 +1,47 @@
+> *random* | Generates random things
+> Status: Working Progress
+
 # random
-Does random things  
+
+[Documentation](https://) (none yet)
 Require
 ```js
 const random = require('@spidergaming/random');
 ```
 
-Warning: I may no longer maintain this project. You are welcome to send pull requests and start an issue on github
+Any unchecked boxes are planned features.
+### Generates Random
+- [x] Integers
+- [x] Floats
+- [x] Strings
+- [x] Characters
+- [x] HEX colors (Working Progress)
+- [ ] Times
+- [ ] Dates
+- [ ] Days
+- [ ] Months
+
+### Randomly
+- [ ] Shuffle Arrays
+- [ ] Choose random item from array
 
 ## Examples:
 ### Generate a random number
-`random.number([maxNumber])`
+`random.number(min?, max?)`
 ```js
-let number = random.number();
-console.log(number); // random number between 1 and 100
+// Get a random integer between 0 and 1
+console.log(`Random 0 - 1: ${random.number()}`);
 
-let number = random.number(1000);
-console.log(number) // random number between 1 and 1000
+// Get a random integer between 0 and 4
+console.log(`Random 0 - 4: ${random.number(4)}`);
+
+// Get a random integer between 50 and 100
+console.log(`Random 50 - 100: ${random.number(50, 100)}`);
 ```
 
-Generate random string
-```js
-let text = random.text();
-console.log(text); // random string
-```
+## Maintainers
+- [SpiderGamin](https://github.com/SpiderGamin/)
+
+
+## License
+**random** is released under the MIT License. Read [here](/LICENSE) for more information.
