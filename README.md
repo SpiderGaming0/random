@@ -1,7 +1,7 @@
 > *random* | Generates random things  
 > Status: Working Progress
 
-[reposize](https://img.shields.io/github/repo-size/spidergamin/random?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/spidergamin/random?style=flat-square)
 # random
 
 [Documentation](https://) (none yet)
@@ -17,13 +17,14 @@ Any unchecked boxes are planned features.
 - [x] Floats
 - [x] Strings
 - [x] Characters
+- [ ] Words
 - [x] HEX colors (Working Progress)
 - [ ] Times
 - [ ] Dates
 - [ ] Days
 - [ ] Months
 
-### Randomly
+#### Other
 - [ ] Shuffle Arrays
 - [ ] Choose random item from array
 
