@@ -10,8 +10,6 @@ Random generator and more
 
 [Documentation]() (Not set up yet)
 
-## This package has been moved to https://www.npmjs.com/package/@insberr/random
-
 ### Random Generators
 Unchecked boxes are planned but not worked on features. More features to comes as time goes on.
 - [x] Integer
