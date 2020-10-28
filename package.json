@@ -1,6 +1,6 @@
 {
   "name": "@spidergaming/random",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Generates random things",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spidergaming0/random.git"
+    "url": "git+https://github.com/Insberr/random.git"
   },
   "author": "spidergaming",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spidergaming0/random/issues"
+    "url": "https://github.com/Insberr/random/issues"
   },
-  "homepage": "https://github.com/spidergaming0/random#readme",
-  "keywords": ["random", "random-number"],
+  "homepage": "https://github.com/Insberr/random#readme",
+  "keywords": ["random"],
   "devDependencies": {
     "chalk": "^4.1.0"
   }

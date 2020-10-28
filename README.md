@@ -1,15 +1,16 @@
-> ***random*** | *Random generator and more*  
+> **random** | Random generator and more  
 > **Status:** *Working Progress*
 
-![Repo Size](https://img.shields.io/github/repo-size/spidergaming0/random?style=flat-square)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/SpiderGaming0/random.svg?logo=lgtm&logoWidth=18&style=flat-square)](https://lgtm.com/projects/g/SpiderGaming0/random/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/SpiderGaming0/random.svg?logo=lgtm&logoWidth=18&style=flat-square)](https://lgtm.com/projects/g/SpiderGaming0/random/context:javascript)
+![Repo Size](https://img.shields.io/github/repo-size/Insberr/random?style=flat-square)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/Insberr/random.svg?logo=lgtm&logoWidth=18&style=flat-square)](https://lgtm.com/projects/g/Insberr/random/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Insberr/random.svg?logo=lgtm&logoWidth=18&style=flat-square)](https://lgtm.com/projects/g/Insberr/random/context:javascript)
 
 # random
 Random generator and more
 
 [Documentation]() (Not set up yet)
 
+## This package has been moved to https://www.npmjs.com/package/@insberr/random
 
 ### Random Generators
 Unchecked boxes are planned but not worked on features. More features to comes as time goes on.
@@ -57,7 +58,7 @@ console.log('0 - 5 not 3:', random.number(0, 5, 3));
 For _almost_ all functions, check out [`src/tests/test.js`](/src/tests/test.js)
 
 ## Maintainers
-- [SpiderGaming0](https://github.com/SpiderGaming0/)
+- [Insberr (AKA SpiderGaming)](https://github.com/Insberr/)
 
 
 ## License
