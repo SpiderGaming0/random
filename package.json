@@ -8,14 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spidergamin/random.git"
+    "url": "git+https://github.com/spidergaming0/random.git"
   },
   "author": "spidergaming",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spidergamin/random/issues"
+    "url": "https://github.com/spidergaming0/random/issues"
   },
-  "homepage": "https://github.com/spidergamin/random#readme",
+  "homepage": "https://github.com/spidergaming0/random#readme",
+  "keywords": ["random", "random-number"],
   "devDependencies": {
     "chalk": "^4.1.0"
   }
